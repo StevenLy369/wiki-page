@@ -23,7 +23,9 @@ body {
     margin-top: 30px;
 }
 
-/* .nav-tabs{
-    float: right;
+.nav-tabs{
+    position: relative;
+    left: 300px;
+    top: -100px;
     
-} */
+} 
