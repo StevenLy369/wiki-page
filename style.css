@@ -21,6 +21,9 @@ body {
 
 .sideBar {
     margin-top: 30px;
+    
+    position: relative;
+    top:-350px;
 }
 
 .nav-tabs{
@@ -29,3 +32,17 @@ body {
     top: -100px;
     
 } 
+.genre {
+    float: left;
+    position: relative;
+    left: 700px;
+    top: -100px;
+    
+    
+}
+
+.jumbotron{
+    height: 300px;
+    position: relative;
+    left: 350px;
+}
